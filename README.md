@@ -25,28 +25,28 @@ This project focuses on predicting the presence of heart disease using patient c
 ## 🔍 Exploratory Data Analysis (EDA)
 
 ### Distribution of Heart Disease Cases
-![Target Distribution](images/target_distribution.png)
+![Target Distribution](Images/target_distribution.png)
 
 *Shows the distribution of patients with and without heart disease.*
 
 ---
 
 ### Age Distribution by Heart Disease Status
-![Age Distribution](images/age_distribution_by_target.png)
+![Age Distribution](Images/age_distribution_by_target.png)
 
 *Older patients exhibit a higher likelihood of heart disease.*
 
 ---
 
 ### Chest Pain Type vs Heart Disease
-![Chest Pain vs Target](images/chest_pain_vs_target.png)
+![Chest Pain vs Target](Images/chest_pain_vs_target.png)
 
 *Chest pain type shows a strong association with heart disease presence.*
 
 ---
 
 ### Correlation Heatmap of Clinical Features
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](Images/heatmap.png)
 
 *Correlation analysis highlighting relationships between clinical attributes and heart disease.*
 
